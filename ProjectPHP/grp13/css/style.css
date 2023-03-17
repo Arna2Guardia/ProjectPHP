@@ -1,0 +1,95 @@
+.class-nav{
+  font-size: 25px;
+  }
+
+.class-nav{
+  font-family: 'Tajawal', sans-serif;
+}
+
+.titles{
+  font-family: 'Tajawal', sans-serif;
+
+}
+.parallax-container {
+    height: 75vh;
+  }
+
+#mylbl{
+  font-size: 100%;
+}
+
+#us{
+  height: 50vh;
+}
+
+#logo-g{
+  height: 2em;
+  padding-left: 10px;
+}
+
+.text-card{
+  font-size: 17px;
+}
+
+.card .card-title{
+  font-size: 27px;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+#carou{
+  text-decoration: underline;
+}
+
+.h1-p1{
+    text-align: center;
+    text-decoration: underline;
+}
+.carousel{
+  height:600px;
+}
+.carousel .carousel-item {
+  max-height: 350px;
+  max-width: 350px;
+}
+
+#img_serv{
+  width:100%;
+  max-width: 540px;
+}
+
+#img-project-3{
+  width:100%;
+}
+
+.space{
+  height:100px;
+}
+.space-small{
+  height:50px;
+}
+
+.space-big{
+    height:150px;
+}
+
+
+.h1-p{
+  font-size: 24px;
+}
+
+.h1-p3{
+  font-size: 30px;
+}
+
+h1{
+  padding-top: 1.5em;
+  font-family: 'Cinzel', serif;
+  font-size: 80px;
+  text-decoration: underline;
+  color: #cfd8dc;
+}
+
+#password_form{
+  padding:1rem; 
+}
