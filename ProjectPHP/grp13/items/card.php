@@ -1,6 +1,6 @@
 <div class="card">
   <div class="card-image waves-effect waves-block waves-light">
-    <img id="ape-lucas" class="activator" src="../img/moi.jpg" alt="ape1">
+    <img id="ape-lucas" class="activator" src="../img/arnamoi.jpg" alt="ape1">
   </div>
   <div class="card-content grey darken-4">
     <span class="titles card-title activator white-text">PRENOM_ICI<i class="material-icons right">more_vert</i></span>
