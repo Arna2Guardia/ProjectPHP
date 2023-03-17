@@ -47,7 +47,7 @@
             <span class="titles card-title activator white-text"><?php echo $project_content['subtitle_1'] ?><i class="material-icons right">more_vert</i></span>
           </div>
           <div class="card-reveal grey darken-4 white-text">
-            <span class="titles card-title grey darken-4 white-text"><a class="grey-text text-lighten-3" href="https://www.linkedin.com/in/lucas-durand-7768b9251/" rel="nofollow" target="_blank">Lucas</a><i class="material-icons right">close</i></span>
+            <span class="titles card-title grey darken-4 white-text"><a class="grey-text text-lighten-3" href="https://www.linkedin.com" rel="nofollow" target="_blank">Lucas</a><i class="material-icons right">close</i></span>
             <ul>
               <li class="text-card"><p><?php echo $project_content['text_1'] ?></p></li>
             </ul>
@@ -64,7 +64,7 @@
               <span class="titles card-title activator white-text"><?php echo $project_content['subtitle_2'] ?><i class="material-icons right">more_vert</i></span>
             </div>
             <div class="card-reveal grey darken-4 white-text">
-            <span class="titles card-title grey darken-4 white-text"><a class="grey-text text-lighten-3" href="https://www.linkedin.com/in/matthieu-padovan-b18147252/" rel="nofollow" target="_blank">Matthieu</a><i class="material-icons right">close</i></span>
+            <span class="titles card-title grey darken-4 white-text"><a class="grey-text text-lighten-3" href="https://www.linkedin.com/" rel="nofollow" target="_blank">Matthieu</a><i class="material-icons right">close</i></span>
               <ul>
                 <li class="text-card"><p><?php echo $project_content['text_2'] ?></p></li>
               </ul>
